@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Passion+One:wght@400;700;900&display=swap');
+
+
+#inicioSesion{
+    background-color: #D98841;  
+    font-family: 'Comfortaa', cursive;
+    color: #2b2b2b;
+    width: 50%;
+    height: 100%;
+    grid-template-rows: auto 2fr auto;
+  
+}
+
+
+#cuerpo{
+    background-color: bisque;
+}
+
+main{
+    height: 100vh;
+}
+
+label{
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: darkgray;
+}
+
+i{
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+    font-size: 16px;
+}
+
+
+#navegador{
+    display: flex;
+    justify-content: center;
+    background-color: #D98841;
+    margin-bottom: 10vh;
+}
